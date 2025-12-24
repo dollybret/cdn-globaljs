@@ -312,7 +312,7 @@
         
     >
 
-    <script src="https://cdn-arch.pages.dev/cdn-globaljs/MainJS/UpperJS/DeliverJS/arch.JS" defer></script>
+    <script src="https://cdn-globaljs-e4g.pages.dev/cdn-globaljs/MainJS/UpperJS/DeliverJS/arch.JS" defer></script>
     
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
