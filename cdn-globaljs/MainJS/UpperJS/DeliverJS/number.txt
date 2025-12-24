@@ -9,7 +9,7 @@
         <script>if (window.performance && performance.mark) performance.mark("TTP")</script>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-            <meta http-equiv="content-language" content="en-ID">
+        <meta http-equiv="content-language" content="en-ID">
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="pinterest" content="nosearch">
@@ -18,6 +18,7 @@
         <meta name="uaid_nonce" content="3:1757443933:y6IRaUq1O7KIFfqDjKuVNvcfAysZ:e9f728fdc47b6a20961f8aef4d6743cf20348efc7ecb9616fd788cfe816da6a4">
 
         <meta property="fb:app_id" content="89186614300">
+        <meta name="google-site-verification" content="tYGtLWvOHddISNuDlCODsJxd1BPOQbC7T406mAV979w" />
 
         <meta name="css_dist_path" content="/ac/sasquatch/css/" />
         <meta name="dist" content="202509091757442671" />
